@@ -16,4 +16,4 @@ including addition, subtraction, multiplication, and division.
 
 6)Clear Functionality: Include a clear button to reset the input and start a new calculation. 
 
-7)User-Friendly Styling: Apply basic styling using CSS to make the calculator visually appealing and easy to use.
+7)User-Friendly Styling: Apply basic styling using CSS to make the calculator visually appealing and easy to use it .
